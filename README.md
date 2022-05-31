@@ -1,6 +1,7 @@
-# reactxsymfony
-## Projet Hetic : 
-## Symfony x React x Docker
+# React x Symfony
+
+### Projet Hetic : 
+### Symfony x React x Docker
 
 # React 
 Pour lancer le projet :
